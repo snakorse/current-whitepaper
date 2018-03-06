@@ -16,8 +16,9 @@ Current创建了一种数字代币来唯一确定性的回报用户的花费的�
 
 > By consolidating popular media networks into one place, Current already provides more than 200,000 users with a more convenient search and discovery experience. With the launch of the platform token, users will be rewarded for streaming content from their favorite networks like: Spotify, YouTube, SoundCloud, and more. The platform combines behavioral data points surrounding the types, times, and topics played by each person across multiple networks to serve up better recommendations than any single network alone.
 >
->   
 > Blockchain technology allows for a new system of transparent accounting that is needed for the instant valuation of time, data, and attention. The Current protocol aligns the interests of all stakeholders in the media consumption cycle to create network effects that drive adoption. By creating a new medium of exchange, Consumers get more choice in how they pay for media; Creators and Curators get a new form of compensation, and Advertisers get more transparent accounting and audience information.
+>
+> The protocol interacts within the Current platform in addition to any other host media network. This introduces a new revenue stream and incentive mechanism for the host network giving it the ability to scale effectively. Over time, developers will leverage the identity profiles created for future blockchain based systems.
 
 
 
