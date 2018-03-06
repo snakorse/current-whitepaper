@@ -4,7 +4,7 @@
 
 ---
 
-我们今天所了解的网站是构建于不知觉的消费者的个人数据和时间之上的。现在，只有4家公司拥有网络用户的数据。互联网的的下一次革命将认识到人的价值，并且重新定义消费者和企业之间的价值交换。
+我们今天所了解的网站是构建于不知觉的消费者的个人数据和时间之上的。现在，只有4家公司拥有网络用户的数据。互联网的下一次革命将认识到人的价值，并且重新定义消费者和企业之间的价值交换。
 
 > The web we know today was built on the personal data and time of the unwitting consumer. Today, just four companies own the internet's data. The next evolution of the Web will recognize the value of people and redefine the value exchange between consumers, and corporations.
 
