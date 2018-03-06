@@ -2,7 +2,7 @@
 
 01 [摘要](/zhai-yao.md)
 
-02 愿景
+02 [愿景](/yuan-jing.md)
 
 ```
 媒体Web3.0
