@@ -5,7 +5,7 @@
 [**愿景**](/yuan-jing.md)
 
 1. [媒体Web3.0](/yuan-jing/mei-ti-web-3-0.md)
-2. 流的时代
+2. [流的时代](/yuan-jing/liu-de-shi-dai.md)
 
 **前言**
 
