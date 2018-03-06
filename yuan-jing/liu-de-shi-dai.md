@@ -4,7 +4,7 @@
 
 ---
 
-===
+据估计，Z一代的购买力为440亿美元，他们每天在手机上花费超过5个小时，这使得他们能够很好地接受加密货币的使用。
 
 > With an estimated buying power of $44 Billion, Gen Z is spending more than 5 hours per day on their phone, making them well positioned for cryptocurrency adoption. By designing our platform with the most digitally active generation in mind, we differentiate ourselves from the infrastructural protocols developed to serve the “initial wave” of avid users and delivers a valuable new audience to the world of blockchain.
 
