@@ -8,4 +8,6 @@
   * [流的时代](yuan-jing/liu-de-shi-dai.md)
 * [前言](qian-yan.md)
   * [引擎：通用媒体平台](qian-yan/yin-qing-ff1a-tong-yong-mei-ti-ping-tai.md)
+  * [扩展：通用媒体协议和代币](qian-yan/kuo-zhan-ff1a-tong-yong-mei-ti-xie-yi-he-dai-bi.md)
+  * [Current生态系统的未来](qian-yan/currentsheng-tai-xi-tong-de-wei-lai.md)
 
