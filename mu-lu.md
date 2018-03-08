@@ -7,11 +7,11 @@
 1. [媒体Web3.0](/yuan-jing/mei-ti-web-3-0.md)
 2. [流的时代](/yuan-jing/liu-de-shi-dai.md)
 
-**前言**
+[**前言**](/qian-yan.md)
 
-1. 动力：通用媒体平台
+1. [动力：通用媒体平台](/qian-yan/yin-qing-ff1a-tong-yong-mei-ti-ping-tai.md)
 
-2. 规模化：通用媒体协议和代币
+2. [规模化：通用媒体协议和代币](/qian-yan/kuo-zhan-ff1a-tong-yong-mei-ti-xie-yi-he-dai-bi.md)
 
 3. Current生态系统的未来
 
