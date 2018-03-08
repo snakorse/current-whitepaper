@@ -1,4 +1,4 @@
-## 扩展：通用媒体协议和代币
+## 规模化：通用媒体协议和代币
 
 > #### Scale: A Universal Media Protocol and Token
 
