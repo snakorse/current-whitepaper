@@ -13,13 +13,13 @@
 
 2. [规模化：通用媒体协议和代币](/qian-yan/kuo-zhan-ff1a-tong-yong-mei-ti-xie-yi-he-dai-bi.md)
 
-3. Current生态系统的未来
+3. [Current生态系统的未来](/qian-yan/currentsheng-tai-xi-tong-de-wei-lai.md)
 
-   1. 区块链应用的高级身份配置文件
+   1. [区块链应用的高级身份配置文件](/qian-yan/currentsheng-tai-xi-tong-de-wei-lai.md)
 
-   2. 去中心化的存储基础设施和中心化的网络
+   2. [去中心化的存储基础设施和中心化的网络](/qian-yan/currentsheng-tai-xi-tong-de-wei-lai.md)
 
-   3. 基于State Channels实现规模化
+   3. [基于State Channels实现规模化](/qian-yan/currentsheng-tai-xi-tong-de-wei-lai.md)
 
 **播放媒体的新方式**
 
