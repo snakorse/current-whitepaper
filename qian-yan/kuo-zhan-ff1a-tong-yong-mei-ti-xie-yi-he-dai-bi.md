@@ -4,7 +4,7 @@
 
 ---
 
-===
+第二阶段的重点是构建一套协议和一种实用代币，来促进媒体消费周期中所产生价值的民主化;
 
 > The second phase is focused on building a protocol and a utility token that democratizes the value created in the media consumption cycle; shifting benefits from advertisers and intermediaries to people who are playing, creating, and curating media. Launching initially on the Current platform, the protocol will be built to support usage within external networks. This offers the host network a new incentive mechanism and revenue source, as well as a compensation model for their users. In turn, the pool of token holders is expanded along with the value of the ecosystem.
 
