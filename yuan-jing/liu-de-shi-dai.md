@@ -8,7 +8,7 @@
 
 > With an estimated buying power of $44 Billion, Gen Z is spending more than 5 hours per day on their phone, making them well positioned for cryptocurrency adoption. By designing our platform with the most digitally active generation in mind, we differentiate ourselves from the infrastructural protocols developed to serve the “initial wave” of avid users and delivers a valuable new audience to the world of blockchain.
 
-===
+Z一代和千禧一代在视频和音乐服务上的互动比以往任何时候都更深入更频繁。他们更可能在YouTube上而不是使用Google来搜索一个特定的问题。有了敏锐的意识，以及对数字领域的浓厚兴趣和理解，这些群体将代表第一代，体验和沉浸于区块链产品和服务中。在许多情况下，Current将是主流大众所拥有的第一个数字钱包。
 
 > Gen Z and Millennials are having deeper and more frequent interactions on video and music services than ever before. They are more likely to search YouTube for a given question then to Google it. Armed with an acute awareness, and a strong interest and understanding of the digital landscape, these groups will represent the first generations who will be immersed in blockchain products and services. In many cases, Current will be the first digital wallet the mainstream public will own.
 
