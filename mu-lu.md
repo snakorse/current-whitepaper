@@ -27,8 +27,8 @@
 2. [跟上潮流](/mei-ti-xin-wan-fa/gen-jin-wen-hua.md)
 3. [避免常见的障碍/降低所有权壁垒](/mei-ti-xin-wan-fa/jiang-di-suo-you-quan-bi-lei.md)
 4. [更好的推荐](/mei-ti-xin-wan-fa/geng-hao-de-tui-jian.md)
-   1. 建立偏好配置
-   2. 专用的推荐算法
+   1. [建立偏好配置](/mei-ti-xin-wan-fa/geng-hao-de-tui-jian.md)
+   2. [专用的推荐算法](/mei-ti-xin-wan-fa/geng-hao-de-tui-jian.md)
 
 **一种面向媒体行业的实用代币**
 
