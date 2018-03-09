@@ -52,7 +52,7 @@
 
 ===
 
-> Recommendation Algorithm Runs Off-Chain
+> image - Recommendation Algorithm Runs Off-Chain
 
 ===
 
