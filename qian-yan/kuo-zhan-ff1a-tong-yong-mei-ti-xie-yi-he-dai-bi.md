@@ -8,7 +8,7 @@
 
 > The second phase is focused on building a protocol and a utility token that democratizes the value created in the media consumption cycle; shifting benefits from advertisers and intermediaries to people who are playing, creating, and curating media. Launching initially on the Current platform, the protocol will be built to support usage within external networks. This offers the host network a new incentive mechanism and revenue source, as well as a compensation model for their users. In turn, the pool of token holders is expanded along with the value of the ecosystem.
 
-===
+该协议把证明用户对网络贡献（通过消费、管理和创建）的事务记录在区块链上，之后智能合约则会根据该贡献分配CRNC代币。为了解决可伸缩性方面的瓶颈，同时保持对事务的信任，我们将考虑“状态通道\(state channels\)”技术。
 
 > The protocol records transactions on the blockchain that attest a user’s contribution to the network \(by consumption, or by curation and creation\) and a smart contract distributes CRNC tokens in response to that contribution. In order to handle the scalability bottlenecks, while maintaining trust within transactions, we will consider “state channels.”
 
