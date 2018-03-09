@@ -23,8 +23,8 @@
 
 [**媒体新玩法**](/mei-ti-xin-wan-fa.md)
 
-1. 更便捷的流
-2. 跟进文化
+1. [更便捷的流](/mei-ti-xin-wan-fa/geng-bian-jie-de-liu.md)
+2. [跟上潮流](/mei-ti-xin-wan-fa/gen-jin-wen-hua.md)
 3. 避免常见的障碍
 4. 更好的推荐
    1. 建立偏好配置

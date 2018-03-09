@@ -12,4 +12,5 @@
   * [Current生态系统的未来](qian-yan/currentsheng-tai-xi-tong-de-wei-lai.md)
 * [媒体新玩法](mei-ti-xin-wan-fa.md)
   * [更便捷的流](mei-ti-xin-wan-fa/geng-bian-jie-de-liu.md)
+  * [跟上潮流](mei-ti-xin-wan-fa/gen-jin-wen-hua.md)
 
