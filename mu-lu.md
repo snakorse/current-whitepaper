@@ -21,7 +21,7 @@
 
    3. [基于State Channels实现规模化](/qian-yan/currentsheng-tai-xi-tong-de-wei-lai.md)
 
-**媒体新玩法**
+[**媒体新玩法**](/mei-ti-xin-wan-fa.md)
 
 1. 更便捷的流
 2. 跟进文化

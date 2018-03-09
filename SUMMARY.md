@@ -11,4 +11,5 @@
   * [规模化：通用媒体协议和代币](qian-yan/kuo-zhan-ff1a-tong-yong-mei-ti-xie-yi-he-dai-bi.md)
   * [Current生态系统的未来](qian-yan/currentsheng-tai-xi-tong-de-wei-lai.md)
 * [媒体新玩法](mei-ti-xin-wan-fa.md)
+  * [更便捷的流](mei-ti-xin-wan-fa/geng-bian-jie-de-liu.md)
 
