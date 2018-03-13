@@ -36,7 +36,7 @@
 
 > #### Ethereum Blockchain Scalability via State Channels For The Media Industry
 
-===
+通过使用state channels技术，Current可以在Raiden上建立，特别是在媒体行业。雷电网络的发布计划被推迟了，这是由于它的目标是建立一个能够在不同容量的环境下工作的通用解决方案。我们相信可以通过发布任何开发人员可以构建的媒体专用的版本来为这个行业增加价值。
 
 > Using state channels, Current can build upon Raiden, specifically with the media industry in mind. Raiden’s launch has been delayed due to the fact it's aiming to build a universal solution that works in several different capacities. We believe we could add value to the industry by launching a media specific version any developer could build upon.
 
