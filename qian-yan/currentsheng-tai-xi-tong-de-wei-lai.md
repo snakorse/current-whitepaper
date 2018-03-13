@@ -28,7 +28,7 @@
 
 > The platform will provide decentralized media infrastructure to host content across millions of devices rather than on proprietary nodes. Fully decentralized media distribution requires significant and rapid industry acceptance.
 
-===
+如果没有这样的基础设施，消费者将仅拥有一个受限的内容库。随着Current利用区块链技术，逐步使得普通公众进一步接收加密货币，媒体行业将过渡到更分散的基础设施。这种方法可以让平台获得动力，并减少双方进入的障碍。创建者从网络中已建立的代币持有者那里获益，并且在收入中所占的比例要高得多。该平台将利用诸如IPFS或Storj这样的协议作为数据存储的目录，以太坊智能合同作为分发逻辑。
 
 > Without it, consumers are left with a limited content library. Current gradually leverages blockchain as the general public further adopts cryptocurrency and the media industry transitions to a more decentralized infrastructure. This approach allows the platform to gain momentum and reduce barriers to entry on both sides. Creators benefit from an established group of token holders within the network, and a significantly higher portion of revenue. The platform will leverage a protocol like IPFS or Storj as a directory for data storage and Ethereum smart contracts as the distribution logic.
 
