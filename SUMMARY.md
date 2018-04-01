@@ -23,4 +23,5 @@
 * [代币和协议动力学](dai-bi-he-xie-yi-dong-li-xue.md)
   * [区块奖励计算](dai-bi-he-xie-yi-dong-li-xue/qu-kuai-jiang-li-ji-suan.md)
   * [贡献系数](dai-bi-he-xie-yi-dong-li-xue/gong-xian-xi-shu.md)
+  * [总代币奖励](dai-bi-he-xie-yi-dong-li-xue/zong-dai-bi-jiang-li.md)
 
