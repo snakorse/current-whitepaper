@@ -30,7 +30,7 @@
 
 > **Estimated Cost of Revenue per User per Year:**
 
-![](/assets/Estimated Cost of Revenue per User per Year:.png)
+![](/assets/p7.png)
 
 ===
 
