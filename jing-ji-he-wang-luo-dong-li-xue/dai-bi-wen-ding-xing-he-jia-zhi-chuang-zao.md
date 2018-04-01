@@ -38,29 +38,15 @@
 
 ===
 
-> - Limit the total supply of tokens to 1,000,000,000 \(1 Billion\) tokens
-
-
-
-> - To eliminate the need for issuance of future tokens, we’ll create a user
+> * Limit the total supply of tokens to 1,000,000,000 \(1 Billion\) tokens
 >
-> growth pool by taking a percentage of each token earned. The growth pool
+> * To eliminate the need for issuance of future tokens, we’ll create a user growth pool by taking a percentage of each token earned. The growth pool tokens gets put back into the miners reward pool after each block cycle
+
+> * Reward users for their contribution while accounting for difficulty via contribution coefficient and block cycle variable as platform grows
+
+> * Introduce a decay rate for long-time inactive users
 >
-> tokens gets put back into the miners reward pool after each block cycle
-
-
-
-> - Reward users for their contribution while accounting for difficulty via
->
-> contribution coefficient and block cycle variable as platform grows
-
-
-
-> - Introduce a decay rate for long-time inactive users
-
-
-
-> - Create a baseline market rate for the tokens via token sale and reward ecosystem
+> * Create a baseline market rate for the tokens via token sale and reward ecosystem
 
 
 
