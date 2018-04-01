@@ -193,25 +193,16 @@
 >  [http://current.us](http://current.us)
 >
 > Twitter  
->  [https://twitter.com/](https://twitter.com/)  
-> Current\_CRNC
+>  [https://twitter.com/](https://twitter.com/)Current\_CRNC
 >
 > Medium  
->  [https://medium.com/](https://medium.com/)  
-> current-crnc
-
-
-
+>  [https://medium.com/](https://medium.com/)current-crnc
+>
 > CRNC Token Sale Website  
 >  [https://tokensale.current.us/](https://tokensale.current.us/)
-
-
-
+>
 > Facebook  
->  [https://www.facebook.com/](https://www.facebook.com/)  
-> CurrentCRNC
->
->
+>  [https://www.facebook.com/](https://www.facebook.com/)CurrentCRNC
 >
 > Telegram [http://bit.ly/2xWBPfH](http://bit.ly/2xWBPfH)
 
