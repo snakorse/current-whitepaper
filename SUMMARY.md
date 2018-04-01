@@ -36,4 +36,7 @@
 * [经济和网络动力学](jing-ji-he-wang-luo-dong-li-xue.md)
   * [代币稳定性和价值创造](jing-ji-he-wang-luo-dong-li-xue/dai-bi-wen-ding-xing-he-jia-zhi-chuang-zao.md)
   * [用户增长池和衰减率](jing-ji-he-wang-luo-dong-li-xue/yong-hu-zeng-chang-chi-he-shuai-jian-lv.md)
+  * [一种动态的订阅模型](jing-ji-he-wang-luo-dong-li-xue/yi-zhong-dong-tai-de-ding-yue-mo-xing.md)
+  * [自动创建钱包](jing-ji-he-wang-luo-dong-li-xue/zi-dong-chuang-jian-qian-bao.md)
+  * [收益模型](jing-ji-he-wang-luo-dong-li-xue/shou-yi-mo-xing.md)
 
