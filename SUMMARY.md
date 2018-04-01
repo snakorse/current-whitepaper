@@ -35,4 +35,5 @@
   * [在Current生态中消费代币](zhuan-qu-he-hua-fei-dai-bi/zai-current-sheng-tai-zhong-xiao-fei-dai-bi.md)
 * [经济和网络动力学](jing-ji-he-wang-luo-dong-li-xue.md)
   * [代币稳定性和价值创造](jing-ji-he-wang-luo-dong-li-xue/dai-bi-wen-ding-xing-he-jia-zhi-chuang-zao.md)
+  * [用户增长池和衰减率](jing-ji-he-wang-luo-dong-li-xue/yong-hu-zeng-chang-chi-he-shuai-jian-lv.md)
 
