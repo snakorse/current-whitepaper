@@ -32,5 +32,13 @@
 
 > Brendan Eich, the founder of Javascript and co-creator of Mozilla, created the Basic Attention Token \(BAT\) to facilitate value exchange in the Brave Internet Browser’s digital advertising marketplace. Brave is an open-sourced, privacyfocused internet browser that blocks malvertising and ad-trackers while accurately rewarding publishers and advertisers through smart contracts on the blockchain. While capitalizing on the security and privacy conscious desktop internet user, they’ve also grown a modest user base of blockchain early adopters from the momentum of their successful ICO which raised $35M. Similar in the way that BAT commoditizes and rewards for “user attention” using web and publisher content, Current is directly applying to multimedia consumption.
 
+### Steem
+
+> #### Steem
+
+===
+
+> Steem is an incentivized social media platform, which is similar to Reddit and uses the its own blockchain and proprietary tokens to reward and moderate discussion. ,,Their platform has seen considerable growth within their core demographic of cryptocurrency enthusiasts and early adopters from the proliferation of interest in digital currencies and blockchain technology. Steem’s community reward system is similar to Current’s; however, their reward system requires input from users - reading content, voting, and commenting. Current’s users earn tokens merely from their consumption patterns within the platform.
+
 
 
