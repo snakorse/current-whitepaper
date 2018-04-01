@@ -10,3 +10,5 @@
 
 ![](/assets/core team.png)
 
+![](/assets/coreteam2.png)
+
