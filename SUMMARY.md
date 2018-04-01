@@ -18,4 +18,6 @@
 * [一种面向媒体行业的实用代币](yi-zhong-mian-xiang-mei-ti-xing-ye-de-shi-yong-dai-bi.md)
   * [协议的目的](yi-zhong-mian-xiang-mei-ti-xing-ye-de-shi-yong-dai-bi/xie-yi-de-mu-de.md)
   * [子代币和网络代币（CRNC）](yi-zhong-mian-xiang-mei-ti-xing-ye-de-shi-yong-dai-bi/zi-dai-bi-he-wang-luo-dai-bi-ff08-crnc.md)
+  * [基于以太坊](yi-zhong-mian-xiang-mei-ti-xing-ye-de-shi-yong-dai-bi/ji-yu-yi-tai-fang.md)
+  * [加密货币所有权的重要性](yi-zhong-mian-xiang-mei-ti-xing-ye-de-shi-yong-dai-bi/jia-mi-huo-bi-suo-you-quan-de-zhong-yao-xing.md)
 
