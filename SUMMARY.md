@@ -53,4 +53,5 @@
 * [隐私与安全](yin-si-yu-an-quan.md)
   * [用户数据收集和匿名](yin-si-yu-an-quan/yong-hu-shu-ju-shou-ji-he-ni-ming.md)
   * [CRNC钱包](yin-si-yu-an-quan/crncqian-bao.md)
+* [顾问和投资人](gu-wen-he-tou-zi-ren.md)
 
