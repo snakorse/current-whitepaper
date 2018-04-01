@@ -57,4 +57,6 @@
 * [核心团队和贡献者](he-xin-tuan-dui-he-gong-xian-zhe.md)
 * [常见问题](chang-jian-wen-ti.md)
 * [附录一：比较分析和token动力学](fu-lu-yi-ff1a-bi-jiao-fen-xi-he-token-dong-li-xue.md)
+* [附录二：去中心化的媒体](fu-lu-er-ff1a-qu-zhong-xin-hua-de-mei-ti.md)
+* [尾注](wei-zhu.md)
 
