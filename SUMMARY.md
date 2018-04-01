@@ -56,4 +56,5 @@
 * [顾问和投资人](gu-wen-he-tou-zi-ren.md)
 * [核心团队和贡献者](he-xin-tuan-dui-he-gong-xian-zhe.md)
 * [常见问题](chang-jian-wen-ti.md)
+* [附录一：比较分析和token动力学](fu-lu-yi-ff1a-bi-jiao-fen-xi-he-token-dong-li-xue.md)
 
