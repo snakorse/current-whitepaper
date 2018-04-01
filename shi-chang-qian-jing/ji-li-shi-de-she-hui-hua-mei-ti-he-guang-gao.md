@@ -24,7 +24,7 @@
 
 > Kin, much like Current’s token, will be used to reward creators, access premium content, and pay for goods and services within the ecosystem. While in a different market segment from Current, Kik has proven that a the 13-24 year old demographic has a strong willingness to adopt a digital currency with low barriers to entry.
 
-### 基本的注意力代币（BAT）和Brave Browser Steem
+### 基本的注意力代币（BAT）和Brave Browser
 
 > #### Basic Attention Token \(BAT\) / Brave Internet Browser
 
