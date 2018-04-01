@@ -44,4 +44,6 @@
   * [激励式的社会化媒体和广告](shi-chang-qian-jing/ji-li-shi-de-she-hui-hua-mei-ti-he-guang-gao.md)
   * [去中心化的媒体平台](shi-chang-qian-jing/qu-zhong-xin-hua-de-mei-ti-ping-tai.md)
   * [在媒体领域的优势](shi-chang-qian-jing/zai-mei-ti-ling-yu-de-you-shi.md)
+* [代币发行](dai-bi-fa-xing.md)
+  * [融资目标](dai-bi-fa-xing/rong-zi-mu-biao.md)
 
