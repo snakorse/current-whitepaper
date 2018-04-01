@@ -24,8 +24,6 @@
 
 > He “mined” 0.57 tokens and was awarded 0.313 for his participant reward, which is calculated in the following example.
 
-
-
 ### ===
 
 > #### Participant Reward

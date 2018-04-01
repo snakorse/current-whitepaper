@@ -28,4 +28,9 @@
   * [参与者代币奖励](dai-bi-he-xie-yi-dong-li-xue/can-yu-zhe-dai-bi-jiang-li.md)
   * [代币价值流动](dai-bi-he-xie-yi-dong-li-xue/dai-bi-jia-zhi-liu-dong.md)
   * [实例计算](dai-bi-he-xie-yi-dong-li-xue/shi-li-ji-suan.md)
+* [赚取和花费代币](zhuan-qu-he-hua-fei-dai-bi.md)
+  * [消费者获得代币](zhuan-qu-he-hua-fei-dai-bi/xiao-fei-zhe-huo-de-dai-bi.md)
+  * [管理员获得代币](zhuan-qu-he-hua-fei-dai-bi/guan-li-yuan-huo-de-dai-bi.md)
+  * [创建者获得代币](zhuan-qu-he-hua-fei-dai-bi/chuang-jian-zhe-huo-de-dai-bi.md)
+  * [在Current生态中消费代币](zhuan-qu-he-hua-fei-dai-bi/zai-current-sheng-tai-zhong-xiao-fei-dai-bi.md)
 
