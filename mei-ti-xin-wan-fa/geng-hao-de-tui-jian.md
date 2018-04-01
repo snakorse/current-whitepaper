@@ -36,7 +36,7 @@ Current专有推荐算法利用基于内容的过滤和协作过滤来确定媒�
 
 > #### Proprietary Recommendation Algorithm
 
-===
+我们的推荐系统基于两种过滤方法：基于内容的过滤和协同过滤。基于内容的过滤提供了与用户过去的消费历史类似的新轨迹推荐，而协作过滤则是根据其他相似用户收听的内容向用户推荐的。
 
 > Our recommender system is based on two filtering methods: Content Based Filtering and Collaborative Filtering. While Content Based Filtering offers recommendations of new tracks similar to a user’s past consumption history, Collaborative Filtering offers recommendations to a user based on what other, similar users listened to.
 
