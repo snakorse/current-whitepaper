@@ -55,4 +55,5 @@
   * [CRNC钱包](yin-si-yu-an-quan/crncqian-bao.md)
 * [顾问和投资人](gu-wen-he-tou-zi-ren.md)
 * [核心团队和贡献者](he-xin-tuan-dui-he-gong-xian-zhe.md)
+* [常见问题](chang-jian-wen-ti.md)
 
