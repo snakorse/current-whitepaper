@@ -16,4 +16,5 @@
   * [降低所有权壁垒](mei-ti-xin-wan-fa/jiang-di-suo-you-quan-bi-lei.md)
   * [更好的推荐](mei-ti-xin-wan-fa/geng-hao-de-tui-jian.md)
 * [一种面向媒体行业的实用代币](yi-zhong-mian-xiang-mei-ti-xing-ye-de-shi-yong-dai-bi.md)
+  * [协议的目的](yi-zhong-mian-xiang-mei-ti-xing-ye-de-shi-yong-dai-bi/xie-yi-de-mu-de.md)
 
