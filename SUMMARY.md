@@ -42,4 +42,6 @@
   * [管理和透明度](jing-ji-he-wang-luo-dong-li-xue/guan-li-he-tou-ming-du.md)
 * [市场前景](shi-chang-qian-jing.md)
   * [激励式的社会化媒体和广告](shi-chang-qian-jing/ji-li-shi-de-she-hui-hua-mei-ti-he-guang-gao.md)
+  * [去中心化的媒体平台](shi-chang-qian-jing/qu-zhong-xin-hua-de-mei-ti-ping-tai.md)
+  * [在媒体领域的优势](shi-chang-qian-jing/zai-mei-ti-ling-yu-de-you-shi.md)
 
