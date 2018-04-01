@@ -40,11 +40,11 @@ Current专有推荐算法利用基于内容的过滤和协作过滤来确定媒�
 
 > Our recommender system is based on two filtering methods: Content Based Filtering and Collaborative Filtering. While Content Based Filtering offers recommendations of new tracks similar to a user’s past consumption history, Collaborative Filtering offers recommendations to a user based on what other, similar users listened to.
 
-===
+基于内容的过滤使用从文本元数据（类型、类别、关键字、嵌入式描述词）生成的特性，协作过滤计算代表用户消费历史的向量之间的相关性。
 
 > While Content Based Filtering uses features generated from textual metadata \(genre, category, keywords, embedded description words\), Collaborative Filtering calculates the correlation between the vectors which represent user consumption history.
 
-===
+为了提高使用稀疏数据的效果，Current算法测量两个向量（代表用户或轨迹）的余弦相似度。使用一个用户矩阵和跟踪算法，通过相应的图，测量用户感知到的媒体价值的大小。然后我们分析两个向量之间的余弦距离来做出推荐：
 
 > To improve efficiency with sparse data, the Current algorithm measures the cosine similarity between two vectors \(representing users or tracks\). Using a matrix of users and tracks the algorithm measures the magnitude of a user’s perceived value of the media through the vectors in a corresponding graph. We then analyze the cosine distance between two vectors to make recommendations:
 
