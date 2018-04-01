@@ -52,11 +52,9 @@
 
 > The pool of tokens that ensures liquidity and proper supply in the total token supply pool
 
-
-
 ### **内容及价值流动**
 
 > #### **Content and Value Flow**
 
-
+![](/assets/content and value flow.png)
 
