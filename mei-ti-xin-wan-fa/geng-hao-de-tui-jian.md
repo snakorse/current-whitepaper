@@ -16,19 +16,19 @@ Current专有推荐算法利用基于内容的过滤和协作过滤来确定媒�
 
 > #### Building a Preference Profile
 
-===
+在这里偏好的定义为一种输入/操作的组合，这些组合表示一个媒体条目比另一个或其他媒体更有乐趣。
 
 > A preference in this circumstance is defined as a combination of inputs / actions that jointly indicate a greater enjoyment of one media item over another or others.
 
-===
+媒体由其元数据来定义：艺术家姓名、专辑名称、歌曲长度、每分钟节拍、风格类型、情绪类型、来源时代和包括喜欢、关注、评论、分享和其他等度量维度的社会化数据。媒体类型以众多音视频形式呈现，包括音乐、视频、播客、帖子、文章、有声读物、电视节目、电影以及其他正在进入大众视野的媒体。
 
 > Media items are defined by their metadata: artist name, album name, song length, beats per minute, genre type, mood type, era of origin and social data including likes, follows, comments, and shares and other qualities. Types of media are broadly represented by various audio and visual formats including music, video, podcasts, posts, articles, audio books, TV shows, movies and other media yet to be popularized.
 
-===
+在用户从预定义的列表中选择一种风格之后，Current系统开始在用户的旅程开始时构建个人的偏好配置文件。通过查找具有相同或相似类型的其他内容，内容过滤器可以提供一组具有不同权重的推荐。系统漏斗进一步分析每个媒体条目，以创建彼此之间的关系，并根据用户的播放、保存和跳过等强属性给出推荐结果。
 
 > The Current system begins building an individual’s preference profile at the start of a user’s journey, after they select a genre from a predefined list. By finding other content with the same, or similar genre, the content filter provides an initial set of recommendations with varying degrees of strength. The system funnel further analyzes each media item to create a relationship between one another and make recommendations based on strong attributes like user plays, saves and skips.
 
-===
+随着时间的推移，加上来自第三方集成的概要信息，偏好配置文件可以变得比建立在任何单一外部网络上的类似模型更加健壮。随着新类型的媒体被添加到Current，以及用户与更多类型的内容交互，我们的偏好配置将成为一个独特的点，以识别不同类型的媒体之间的共性，例如，podcast和视频、有声读物和文章。
 
 > Over time and with the addition of profile information from third party integrations, the preference profile can become more robust than a similar model built on any single external network. As new types of media are added to Current and users interact with a more types of content, our preference profile will be in a unique position to identify commonalities between different types of media, such as, podcasts to videos, audiobooks and articles and so on.
 
