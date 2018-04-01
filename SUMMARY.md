@@ -50,4 +50,7 @@
   * [代币供应总量分配](dai-bi-fa-xing/dai-bi-gong-ying-zong-liang-fen-pei.md)
   * [代币销售资金用途](dai-bi-fa-xing/dai-bi-xiao-shou-zi-jin-yong-tu.md)
   * [路线图](dai-bi-fa-xing/lu-xian-tu.md)
+* [隐私与安全](yin-si-yu-an-quan.md)
+  * [用户数据收集和匿名](yin-si-yu-an-quan/yong-hu-shu-ju-shou-ji-he-ni-ming.md)
+  * [CRNC钱包](yin-si-yu-an-quan/crncqian-bao.md)
 
