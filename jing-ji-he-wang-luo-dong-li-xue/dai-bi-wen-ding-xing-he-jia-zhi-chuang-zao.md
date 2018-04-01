@@ -41,12 +41,24 @@
 > * Limit the total supply of tokens to 1,000,000,000 \(1 Billion\) tokens
 >
 > * To eliminate the need for issuance of future tokens, we’ll create a user growth pool by taking a percentage of each token earned. The growth pool tokens gets put back into the miners reward pool after each block cycle
-
+>
 > * Reward users for their contribution while accounting for difficulty via contribution coefficient and block cycle variable as platform grows
-
+>
 > * Introduce a decay rate for long-time inactive users
 >
 > * Create a baseline market rate for the tokens via token sale and reward ecosystem
+
+### 代币回购和流通
+
+> #### Token Redemption & Liquidity
+
+===
+
+> - Allow tokens to be traded in for premium services and goods
+>
+> - Ensure tokens will only be mined post token sale or purchasedby advertisers
+>
+> - Implement future use cases for the Current token that promote further liquidity \(method for advertisers to buy direct ads, future outside application use\)
 
 
 
