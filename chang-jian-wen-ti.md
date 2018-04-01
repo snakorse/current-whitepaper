@@ -147,5 +147,75 @@
 
 > In order to be eligible for large discounts on tokens purchased during the token sale you will be subject to a distribution period where you will be given tokens on a pro-rata basis depending on your selected distribution period.
 
+**===**
+
+> **What happens if we don’t meet our minimum cap goal?**
+
+===
+
+> All transactions will be refunded to the wallet address used in the transaction.
+
+**===**
+
+> **How do I set up my wallet on Current?**
+
+===
+
+> Once the CRNC wallets go live, interested parties will be directed to a portal where you will be asked to claim and generate your wallet. Once the wallet has been generated, you will be provided with a seed phrase tied to that specific wallet address. This is something you’ll keep for your records. Once that seed has been generated, you’ll be asked to enter a password. After this process has been completed, we will reward that address with a predetermined amount of CRNC tokens for doing so.
+
+===
+
+> With your new wallet generated, you’ll be able to make referrals to your friends to earn additional tokens.
+
+**===**
+
+> **Why is there a decay rate on CRNC tokens held in my wallet?**
+
+===
+
+> In order to incentivize active users on the platform, any CRNC tokens held in an account that goes inactive for more than 6 months will begin to decay; the decaying tokens will then be transferred back into the growth pool to reward active participants.
+
+===
+
+> A user will get a series of alerts before this takes place. The decay rate does not apply to any tokens purchased during the token sale, or tokens transferred out and held in an offline wallet.
+
+===
+
+> The rates of decay at associate intervals are as follows: 6 months @ 10% month-over-month
+
+**===**
+
+> **Where can I learn more about Current and CRNC?**
+
+===
+
+> Current Platform Website http://current.us
+
+> Twitter https://twitter.com/Current\_CRNC
+>
+>
+>
+> Medium https://medium.com/current-crnc
+>
+> >
+>
+>
+>
+> CRNC Token Sale Website https://tokensale.current.us/
+>
+> >
+>
+>
+>
+> Facebook https://www.facebook.com/CurrentCRNC
+>
+> >
+>
+>
+>
+> Telegram http://bit.ly/2xWBPfH
+>
+> >
+
 
 
