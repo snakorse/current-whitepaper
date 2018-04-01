@@ -41,4 +41,5 @@
   * [收益模型](jing-ji-he-wang-luo-dong-li-xue/shou-yi-mo-xing.md)
   * [管理和透明度](jing-ji-he-wang-luo-dong-li-xue/guan-li-he-tou-ming-du.md)
 * [市场前景](shi-chang-qian-jing.md)
+  * [激励式的社会化媒体和广告](shi-chang-qian-jing/ji-li-shi-de-she-hui-hua-mei-ti-he-guang-gao.md)
 
