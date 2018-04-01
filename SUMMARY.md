@@ -46,4 +46,6 @@
   * [在媒体领域的优势](shi-chang-qian-jing/zai-mei-ti-ling-yu-de-you-shi.md)
 * [代币发行](dai-bi-fa-xing.md)
   * [融资目标](dai-bi-fa-xing/rong-zi-mu-biao.md)
+  * [媒体平台融资可比较数据](dai-bi-fa-xing/mei-ti-ping-tai-rong-zi-ke-bi-jiao-shu-ju.md)
+  * [代币供应总量分配](dai-bi-fa-xing/dai-bi-gong-ying-zong-liang-fen-pei.md)
 
