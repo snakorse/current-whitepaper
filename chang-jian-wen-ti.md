@@ -187,6 +187,8 @@
 
 > **Where can I learn more about Current and CRNC?**
 
+===
+
 > Current Platform Website  
 > [http://current.us](http://current.us)
 >
