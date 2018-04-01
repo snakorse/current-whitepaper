@@ -4,11 +4,11 @@
 
 ---
 
-===
+一种算法可以将看似无限的内容库整合为可以让用户在短时间内理解并做出选择的几个选项。为了使任何给定的信息列表更易于管理，建议系统必须准确地模拟用户的偏好，揭示隐藏的偏好，避免冗余。
 
 > An algorithm can consolidate a seemingly limitless content library into a subset of options that users can understand and make choices from in moments. In order to make any given list of information more manageable, a recommendation system must model users’ preferences accurately, uncover hidden preferences, and avoid redundancy.
 
-===
+Current专有推荐算法利用基于内容的过滤和协作过滤来确定媒体用户最感兴趣的内容。利用机器学习和神经网络，我们的算法会根据它所定义的关系信息来自动修正和改变。
 
 > Current’s proprietary recommendation algorithm leverages both Content Based Filtering and Collaborative Filtering to determine in what media users are most interested. Using machine learning and neural networks, our algorithm will self-amend and change incrementally based on the relational information it defines.
 
