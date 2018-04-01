@@ -20,8 +20,6 @@
 
 > As part of this process, Current will open source the protocols and several components of the media platform to the general public. This allows our community of developers to build and expand the network and, ultimately, the holders of Current tokens. This transition is a statement of our dedication to our community and encouraging an environment where all participants benefit from its success.
 
-
-
 **===**
 
 > **Key Takeaways**
