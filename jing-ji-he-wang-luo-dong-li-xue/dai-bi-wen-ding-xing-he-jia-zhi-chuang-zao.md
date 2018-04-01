@@ -54,11 +54,23 @@
 
 ===
 
-> - Allow tokens to be traded in for premium services and goods
+> * Allow tokens to be traded in for premium services and goods
 >
-> - Ensure tokens will only be mined post token sale or purchasedby advertisers
+> * Ensure tokens will only be mined post token sale or purchasedby advertisers
 >
-> - Implement future use cases for the Current token that promote further liquidity \(method for advertisers to buy direct ads, future outside application use\)
+> * Implement future use cases for the Current token that promote further liquidity \(method for advertisers to buy direct ads, future outside application use\)
+
+### 增长和网络效应
+
+> #### Growth and Network Effects
+
+===
+
+> - Entry point into cryptocurrency for mass market by rewarding a daily habit: media consumption
+>
+> - Reward all participants of the media consumption cycle \(consumer, curator, creator\)
+>
+> - Incentivize growth and improvements of the platform via contributions of the community \(consumption, time, attention, referrals, user data integrations\)
 
 
 
