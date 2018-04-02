@@ -4,5 +4,5 @@
 
 Current是一个带有激励机制、基于区块链的流媒体生态系统，它可以让你选择如何为你的流媒体付费。
 
-关于Current的更多内容可以访问Current官方网站:[https://current.us/](https://current.us/)。
+关于Current的更多内容可以访问Current官方网站: [https://current.us/](https://current.us/)。
 
