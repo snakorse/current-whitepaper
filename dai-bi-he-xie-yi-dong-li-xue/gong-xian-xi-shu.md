@@ -58,11 +58,11 @@
 
 - 关联账户数
 
-    - Spotify偏好配置
+* Spotify偏好配置
 
-    - Youtube偏好配置
+* Youtube偏好配置
 
-    - 第三方偏好配置
+* 第三方偏好配置
 
 > 1.Attractiveness of user based on attributes, learnt on data from advertisers and in-platform analytics
 >
@@ -91,9 +91,7 @@
 >   * YouTube preference profile
 >
 >   * Third-party preference profiles
-
-
-
+>
 > 2.Likelihood of user interaction and click through with ad, learnt on in-app data
 
 ==
