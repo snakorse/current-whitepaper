@@ -4,7 +4,7 @@
 
 ---
 
-并不是所有的用户消费都是平等的。
+并不是所有的用户消费都是平等的。贡献系数\(H\)旨在抑制不正当的播放，并确定最具影响力的网络贡献者。它是通过Current公司的一个集中式的oracle操作，通过Current平台的数据点来计算的，然后注入区块链。
 
 > Not all user consumption is equal. The Contribution Coefficient \(H\) is designed to disincentivize illegitimate plays, and to identify the most influential contributors to its network. It is calculated with data points from the Current platform via a centralized oracle operated by the Current Corporation, then injected into the blockchain.
 
