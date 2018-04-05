@@ -38,31 +38,31 @@
 
 1. 用户吸引力基于从广告主和平台内数据学习的特征:
 
-- 国家
+2. 国家
 
-- 性别
+3. 性别
 
-- 职业
+4. 职业
 
-- 年龄段
+5. 年龄段
 
-- 收入水平
+6. 收入水平
 
-- 用户偏高数据
+7. 用户偏高数据
 
-- app前台和后台使用
+8. app前台和后台使用
 
-- 日历访问
+9. 日历访问
 
-- 位置访问
+10. 位置访问
 
-- 关联账户数
+11. 关联账户数
 
-* Spotify偏好配置
+12. Spotify偏好配置
 
-* Youtube偏好配置
+13. Youtube偏好配置
 
-* 第三方偏好配置
+14. 第三方偏好配置
 
 > 1.Attractiveness of user based on attributes, learnt on data from advertisers and in-platform analytics
 >
@@ -92,7 +92,7 @@
 >
 >   * Third-party preference profiles
 >
-> 2.Likelihood of user interaction and click through with ad, learnt on in-app data
+>   2.Likelihood of user interaction and click through with ad, learnt on in-app data
 
 ==
 
