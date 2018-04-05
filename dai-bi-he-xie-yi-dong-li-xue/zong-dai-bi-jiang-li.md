@@ -4,13 +4,15 @@
 
 ---
 
-===
+总令牌奖励包含块奖励，花在媒体上的时间\(以秒为单位\)，以及用户的贡献系数。
 
 > The total token reward is the result of the block reward, time spent consuming media \(in seconds\), and the user’s contribution coefficient
 
 ![](/assets/total_token_reward.png)
 
-===
+变量
+
+
 
 > Variables
 >
