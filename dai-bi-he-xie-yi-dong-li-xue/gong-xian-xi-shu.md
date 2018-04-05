@@ -4,7 +4,7 @@
 
 ---
 
-===
+并不是所有的用户消费都是平等的。
 
 > Not all user consumption is equal. The Contribution Coefficient \(H\) is designed to disincentivize illegitimate plays, and to identify the most influential contributors to its network. It is calculated with data points from the Current platform via a centralized oracle operated by the Current Corporation, then injected into the blockchain.
 
@@ -39,31 +39,32 @@
 ===
 
 > 1.Attractiveness of user based on attributes, learnt on data from advertisers and in-platform analytics
-> - Country
 >
-> - Gender
+> * Country
 >
-> - Occupation
+> * Gender
 >
-> - Age group
+> * Occupation
 >
-> - Income level
+> * Age group
 >
-> - User preference data
+> * Income level
 >
-> - App foreground vs background use
+> * User preference data
 >
-> - Calendar access
+> * App foreground vs background use
 >
-> - Location access
+> * Calendar access
 >
-> - Number of accounts connected
+> * Location access
 >
-> 	- Spotify preference profile
+> * Number of accounts connected
 >
-> 	- YouTube preference profile
+>   * Spotify preference profile
 >
-> 	- Third-party preference profiles
+>   * YouTube preference profile
+>
+>   * Third-party preference profiles
 
 ===
 
