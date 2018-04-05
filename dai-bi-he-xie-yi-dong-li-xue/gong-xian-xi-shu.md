@@ -32,11 +32,37 @@
 
 > #### Customer Attractiveness
 
-===
+客户吸引力比率是0\(0\)和1的系数，表示用户在网络中集成的程度，再加上消费者注意到广告的可能性。
 
 > The customer attractiveness ratio is a coefficient within 0 \(zero\) and 1 which represents the degree to which the user is integrated in the network, coupled with the likelihood that the consumer notices the ad.
 
-===
+1. 用户吸引力基于从广告主和平台内数据学习的特征:
+
+- 国家
+
+- 性别
+
+- 职业
+
+- 年龄段
+
+- 收入水平
+
+- 用户偏高数据
+
+- app前台和后台使用
+
+- 日历访问
+
+- 位置访问
+
+- 关联账户数
+
+    - Spotify偏好配置
+
+    - Youtube偏好配置
+
+    - 第三方偏好配置
 
 > 1.Attractiveness of user based on attributes, learnt on data from advertisers and in-platform analytics
 >
@@ -66,11 +92,11 @@
 >
 >   * Third-party preference profiles
 
-===
 
-> 2.Likelihood of user interaction and clickthrough with ad, learnt on in-app data
 
-===
+> 2.Likelihood of user interaction and click through with ad, learnt on in-app data
+
+==
 
 > 3.Incentives for in-network participation
 
