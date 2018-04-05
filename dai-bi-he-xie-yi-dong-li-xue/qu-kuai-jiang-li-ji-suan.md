@@ -12,18 +12,38 @@
 
 **变量**
 
+Br = 区块奖励
+
+Tp = Token Pool
+
+To = Token’s Out \(During a single block cycle\)
+
+Cp = Growth Pool \(During a single block cycle\)
+
+Bc = Variable which increases as the number of block cycles increases,rate TBD where inflation &gt; 1,deflation &lt;1, Baseline =1
+
+Total Token Supply: 1,000,000,000
+
+>
+
+>
+
+>
+
+>
+
 > **Variables**
-
+>
 > Br = Block Reward
-
+>
 > Tp = Token Pool
-
+>
 > To = Token’s Out \(During a single block cycle\)
-
+>
 > Cp = Growth Pool \(During a single block cycle\)
-
+>
 > Bc = Variable which increases as the number of block cycles increases,rate TBD where inflation &gt; 1,deflation &lt;1, Baseline =1
-
+>
 > Total Token Supply: 1,000,000,000
 
 
