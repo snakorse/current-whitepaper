@@ -20,11 +20,11 @@
 
 > #### Verifying Play Legitimacy
 
-===
+播放合法性的可能性是一个旨在防止不真实的播放从采矿的CRNC中产生的系数。这个系数将被规范化，以便在大多数情况下，在网络上保持一致，并且在一个用户基础上识别出的欺诈行为为0\(0\)。我们的专有算法解决了基于Current平台使用生成的特征的异常检测问题，如app前台消费、广告交互、会话速度和长度。
 
 > The play legitimacy likelihood is a coefficient designed to prevent inauthentic plays from mining CRNC. This coefficient will be regularized so that it is consistent across the network in the majority of cases and 0 \(zero\) for identified frauds on a by-user basis. Our proprietary algorithm solves an anomaly detection problem based on features generated from Current platform usage, like app foreground consumption, advertisement interaction, and session velocity and length.
 
-===
+该算法计算成本高，并且目前所需要的数据点位于链下。由于这些原因，我们的反欺诈检查将由链下 Current API执行。我们会考虑将这些检查转移到链上，当我们更多数据转移到链上，并且如果链上的交易成本降低到可以承受的程度。
 
 > This algorithm is computationally expensive, and presently the required data points are located off-chain. For these reasons, our anti-fraud checks will be performed by the off-chain Current API. We’ll consider moving these checks onchain once more of our data moves onchain, and if on-chain transaction costs fall to an affordable rate.
 
