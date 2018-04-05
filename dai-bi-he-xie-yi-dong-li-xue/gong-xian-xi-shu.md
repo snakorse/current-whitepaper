@@ -12,7 +12,7 @@
 
 > #### Taper Coefficient
 
-===
+有很多原因可能不利于长期持续的采矿。
 
 > There are many reasons to discourage long, continuous mining. Firstly, advertising research suggests that ad fatigue decreases attention; secondly, we want to discourage consumer fraud where users “play” media without authentically paying attention to it. We define a “session” as a time period of continuous mining with some minimum time apart from the next session. We designed a coefficient function in which marginal reward tapers off as session length increases. The cumulative award then is naturally its integral.
 
