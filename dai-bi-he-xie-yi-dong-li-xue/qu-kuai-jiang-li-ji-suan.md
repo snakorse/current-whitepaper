@@ -14,23 +14,15 @@
 
 Br = 区块奖励
 
-Tp = Token Pool
+Tp = 代币池
 
-To = Token’s Out \(During a single block cycle\)
+To = 代币产出 \(在单个区块周期内\)
 
-Cp = Growth Pool \(During a single block cycle\)
+Cp = 增长池 \(在单个区块周期内\)
 
-Bc = Variable which increases as the number of block cycles increases,rate TBD where inflation &gt; 1,deflation &lt;1, Baseline =1
+Bc = 随着区块周期增长而增长的变量, 通货膨胀&gt; 1，通货紧缩&lt;1，基线=1。
 
-Total Token Supply: 1,000,000,000
-
->
-
->
-
->
-
->
+代币总量: 1,000,000,000
 
 > **Variables**
 >
