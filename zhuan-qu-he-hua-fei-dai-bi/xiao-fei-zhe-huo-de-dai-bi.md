@@ -26,14 +26,18 @@
 
 举例：汤姆自己也加入了Current。汤姆邀请史蒂夫，然后史蒂夫邀请杰瑞。
 
+Tom = 55% of his TR \(Token reward\) + 1.5% of Steve's TR
+
+Steve = 55% of his TR + 1.5% bonus of his own TR + 1.5% of Jerry’s TR
+
+Jerry = 55% of his TR + 1.5% bonus of his own TR
+
 > Example: Tom joined Current on his own. Tom Invites Steve and then Steve invites Jerry.
-
-
-
+>
 > Tom = 55% of his TR \(Token reward\) + 1.5% of Steve's TR
-
+>
 > Steve = 55% of his TR + 1.5% bonus of his own TR + 1.5% of Jerry’s TR
-
+>
 > Jerry = 55% of his TR + 1.5% bonus of his own TR
 
 ### 广告阈值设置与挖矿速度
