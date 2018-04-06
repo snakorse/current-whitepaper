@@ -58,11 +58,11 @@
 
 * 关联账户数
 
-*     Spotify偏好配置
+  * Spotify偏好配置
 
-*     Youtube偏好配置
+  * Youtube偏好配置
 
-*     第三方偏好配置
+  * 第三方偏好配置
 
 > 1.Attractiveness of user based on attributes, learnt on data from advertisers and in-platform analytics
 >
@@ -92,11 +92,11 @@
 >
 >   * Third-party preference profiles
 
-2. 在应用内数据中学习到的用户交互和广告点击的可能性
+2.在应用内数据中学习到的用户交互和广告点击的可能性
 
 > 2.Likelihood of user interaction and click through with ad, learnt on in-app data
 
-3. 对网络内参与者的激励
+3.对网络内参与者的激励
 
 > 3.Incentives for in-network participation
 
