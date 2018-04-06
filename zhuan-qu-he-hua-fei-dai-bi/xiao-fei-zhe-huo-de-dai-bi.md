@@ -44,9 +44,9 @@
 
 > #### Ad threshold and Faster Mining
 
-===
+新用户将会被展示广告，直到他们的钱包里有5个代币（或者相当于一个免费用户的生命周期值）。如果用户的余额低于这个阈值，广告就会重新出现。用户不需要使用令牌进行交易，以消除阈值后的广告。如果用户选择保持广告激活，这将对他们的贡献系数产生积极影响，从而使他们能够更快地挖掘代币。
 
-> New users will be shown ads until they have 5 tokens in their wallet \(or the equivalent of the lifetime value of a free user within Current\). Ads will reappear if the user’s balance drops below this threshold. Users do not need to trade in tokens to eliminate ads post-threshold. If a user chooses to keep ads activated, this will positively affect their con-tribution coefficient, effectively allowing them to mine tokens faster.
+> New users will be shown ads until they have 5 tokens in their wallet \(or the equivalent of the lifetime value of a free user within Current\). Ads will reappear if the user’s balance drops below this threshold. Users do not need to trade in tokens to eliminate ads post-threshold. If a user chooses to keep ads activated, this will positively affect their contribution coefficient, effectively allowing them to mine tokens faster.
 
 ![](/assets/ad threshold and faster mining.png)
 
