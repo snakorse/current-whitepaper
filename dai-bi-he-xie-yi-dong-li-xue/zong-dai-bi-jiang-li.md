@@ -10,11 +10,19 @@
 
 ![](/assets/total_token_reward.png)
 
-变量
+**变量**
 
+Tr = 代币奖励
 
+S = 消耗秒数\( S 等于 30\)
 
-> Variables
+Br = 区块奖励
+
+H = 贡献系数
+
+3600 = 1 Block
+
+> **Variables**
 >
 > Tr = Token reward
 >
