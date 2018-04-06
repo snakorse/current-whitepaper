@@ -26,11 +26,11 @@
 
 举例：汤姆自己也加入了Current。汤姆邀请史蒂夫，然后史蒂夫邀请杰瑞。
 
-Tom = 55% of his TR \(Token reward\) + 1.5% of Steve's TR
+汤姆 = 他自己所有TR\(代币奖励\)的55% + 史蒂夫TR的1.5%
 
-Steve = 55% of his TR + 1.5% bonus of his own TR + 1.5% of Jerry’s TR
+史蒂夫 = 他自己所有TR的55% + 他所有的TR的分红的1.5% + 杰瑞TR的1.5%
 
-Jerry = 55% of his TR + 1.5% bonus of his own TR
+杰瑞=他自己所有TR的55% + 他所有的TR的分红的1.5%
 
 > Example: Tom joined Current on his own. Tom Invites Steve and then Steve invites Jerry.
 >
