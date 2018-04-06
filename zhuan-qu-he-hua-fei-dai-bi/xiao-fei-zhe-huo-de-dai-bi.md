@@ -4,7 +4,7 @@
 
 ---
 
-===
+用户所获得的代币数量取决于他们的贡献系数和他们成功完成的推荐数量。所有在我们的内容集成中使用媒体的用户都将被授予平台代币。
 
 > The amount of tokens earned by the user is reliant on their contribution coefficient and the number of referrals they've made successfully. All users who consume media on Current from any of our content integrations will be awarded platform tokens.
 
@@ -12,7 +12,7 @@
 
 > #### Syncing Media Networks and Preferences
 
-===
+用户的“挖矿速率”会受到与他们账户绑定的数据量的影响。他们可以通过同步第三方配置文件来提高这一速率。这种激励增加了用户输入，并有助于推荐算法提供更个性化的内容。随着Current网络的发展，更多的价值被创造出来，一个更健壮的以指数级的扩大内容集成的用户推荐平台将会形成。
 
 > A user’s ‘mine rate’ is impacted by the amount of data that is tied to their account. They can increase this rate by syncing third-party profiles. This incentive increases user inputs and allows the recommendation algorithm to provide more personalized content. As the Current network grows, more value is created and a more robust recommendation platform with exponentially greater content integrations will emerge for users.
 
@@ -20,23 +20,19 @@
 
 > #### Inviting Other Users to Current
 
-===
+一个用户可以邀请其他人到Current，并赚取高达\(3%\)他们每个新用户永久获得的代币的发行价值。Current可能会实现3%的分拆，在这个比例中，推荐者和被推荐者都可以分享新用户所获得的代币1.5%的份额。
 
 > A user may invite others to Current and earn up to \(3%\) of their distribution value of tokens each new user earns in perpetuity. Current may implement a split of the 3% where both the referrer and the referee each get a \(1.5%\) share of the tokens the new user earns.
 
-===
+举例：汤姆自己也加入了Current。汤姆邀请史蒂夫，然后史蒂夫邀请杰瑞。
 
 > Example: Tom joined Current on his own. Tom Invites Steve and then Steve invites Jerry.
 
-===
+
 
 > Tom = 55% of his TR \(Token reward\) + 1.5% of Steve's TR
 
-===
-
 > Steve = 55% of his TR + 1.5% bonus of his own TR + 1.5% of Jerry’s TR
-
-===
 
 > Jerry = 55% of his TR + 1.5% bonus of his own TR
 
