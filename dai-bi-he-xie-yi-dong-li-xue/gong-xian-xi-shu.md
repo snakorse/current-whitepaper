@@ -38,31 +38,20 @@
 
 1. 用户吸引力基于从广告主和平台内数据学习的特征:
 
-2. 国家
+* 国家
+* 性别
 
-3. 性别
-
-4. 职业
-
-5. 年龄段
-
-6. 收入水平
-
-7. 用户偏高数据
-
-8. app前台和后台使用
-
-9. 日历访问
-
-10. 位置访问
-
-11. 关联账户数
-
-12. Spotify偏好配置
-
-13. Youtube偏好配置
-
-14. 第三方偏好配置
+* 职业
+* 年龄段
+* 收入水平
+* 用户偏高数据
+* app前台和后台使用
+* 日历访问
+* 位置访问
+* 关联账户数
+  * Spotify偏好配置
+  * Youtube偏好配置
+  * 第三方偏好配置
 
 > 1.Attractiveness of user based on attributes, learnt on data from advertisers and in-platform analytics
 >
@@ -91,14 +80,18 @@
 >   * YouTube preference profile
 >
 >   * Third-party preference profiles
->
->   2.Likelihood of user interaction and click through with ad, learnt on in-app data
 
-==
+>
+
+在应用内数据中学习到的用户交互和广告点击的可能性
+
+> 2.Likelihood of user interaction and click through with ad, learnt on in-app data
+
+对对网络内参与者的激励
 
 > 3.Incentives for in-network participation
 
-===
+与验证游戏的合法性类似，这种计算需要大量的链下数据，如果在链上执行，就会产生大量的交易成本。由于这些原因，这些计算的大部分将在一个链下的API中进行。
 
 > Similar to verifying play legitimacy, this calculation requires a significant amount of data located off-chain, and would incur large transactions cost if performed onchain. For these reasons, the majority of these calculations will be conducted in an off-chain API.
 
