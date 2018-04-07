@@ -4,7 +4,7 @@
 
 ---
 
-===
+如今，区块链公司在做代币销售时面临的最大问题是缺乏对公众的透明度。它将所有基于区块链的项目置于风险之中，因此Current将实施我们与许多令人惊讶的公司“默认为透明”的核心计划，在那里我们的社区提供了他们应该得到的信息。
 
 > Today, the biggest issue facing blockchain companies doing token sales is the lack of transparency to the public. It puts all blockchain based projects at risk, thus Current will be implementing a core initiative we share with many amazing companies “Default To Transparency,” where our community is provided with the information they deserve.
 
