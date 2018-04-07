@@ -14,7 +14,7 @@
 
 > Smart contracts will distribute tokens within one month of the token sale.
 
-的免费赠送将被用作一种营销和增长策略。“索取你的钱包”功能将于2018年3月21日推出，将我们现有的用户群转变为区块链生态系统，并创造关注度。
+代币的免费赠送将被用作一种营销和增长策略。“索取你的钱包”功能将于2018年3月21日推出，将我们现有的用户群转变为区块链生态系统，并创造关注度。
 
 > Token giveaways will be used as a marketing and growth tactic. “Claim Your Wallet” will launch March 21st, 2018 to transition our existing user base into the blockchain ecosystem and create awareness.
 
