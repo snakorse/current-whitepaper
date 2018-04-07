@@ -2,13 +2,11 @@
 
 > #### CRNC Wallet
 
-
-
 ---
 
-===
+Current将使用Ethereum MultiSig钱包作为我们的标准。CRNC将完全符合ERC20标准，以确保令牌与所有基于以太坊的钱包\(Mist、Geth、Metamask\)兼容。
 
-> Current will use the Ethereum MultiSig wallet as our standard. CRNC will be fully compliant with ERC20 standards in order to ensure that the tokens are compatible with all Ethereumbased wallets \(Mist, Geth, Metamask\).
+> Current will use the Ethereum MultiSig wallet as our standard. CRNC will be fully compliant with ERC20 standards in order to ensure that the tokens are compatible with all Ethereum based wallets \(Mist, Geth, Metamask\).
 
 ===
 
