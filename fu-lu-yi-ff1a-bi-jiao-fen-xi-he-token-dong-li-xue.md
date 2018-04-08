@@ -70,9 +70,13 @@ Spotify在2016年的月活跃用户数为1.26亿，其中有7800万（62%）的�
 
 我们使用在Pandora 10-K上提供的RPM度量（每千个听小时的收入）（只包括前9个月，因为在2016年第三季度之后，RPM度量被放弃）：
 
-基于RPM的广告
+**基于RPM的广告**
 
+14.53B listening hours = $58.10
 
+**基于订阅的RPM**
+
+2.04B listening hours = $80.98
 
 > We use the RPM metric \(revenue per thousand listening-hours\) provided on the Pandora 10-K \(only the first nine months are included, because the RPM metric is abandoned after Q3 2016\):
 >
