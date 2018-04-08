@@ -122,72 +122,93 @@ CRNC代币不会将用户的钱包留在生态系统中，直到他们被发送�
 
 我们希望每个人都能参与我们的代币销售，有两种方式参与。
 
+1. 你可以通过交易其他形式的加密货币来获得CRNC代币，作为代币销售的一部分（公共预售和主要销售）。来自美国的参与者必须被授权购买CRNC。
+
+2. 或者，任何人都可以在不花钱的情况下参加“索取你的钱包”活动。声称他们的钱包的用户将得到预先确定的CRNC代币，在CRNC属性协议的发布时分发。
+
 > We want everyone to be able to participate in our Token Sale and there are two ways to participate.
 >
 > 1. You can either obtain CRNC tokens by trading in other forms of cryptocurrency as part of the Token Sale \(Public Presale, and Main Sale\). Participants from the U . S . A . m u s t b e a c - credited to buy CRNC.
 > 2. Alternatively, anyone can take part of the “Claim Your Wallet” campaign without spending anything. Users who claim their wallet will be given a predetermined amount of CRNC Tokens, distributed upon the launch of the CRNC attribution protocol.
 
-**===**
+**参加代币销售的最低限额是多少？**
 
 > **What’s the minimum to participate in the Token Sale?**
 
-===
+0.03 ETH
 
 > 0.03 ETH
 
-**===**
+**在预售期间购买的代币是否有分配时间表？**
 
 > **Is there a distribution schedule on the tokens purchased during the presale?**
 
-===
+在某些情况下，取决于你想要的CRNC代币的数量有多大。
 
 > In some cases, depending how big of a bonus on CRNC tokens you desire.
 
-===
+为了有资格在代币销售期间购买的代币有很大的折扣，你将会受到一个分配期的限制，根据你所选择的分配周期，你将按比例分配代币。
 
 > In order to be eligible for large discounts on tokens purchased during the token sale you will be subject to a distribution period where you will be given tokens on a pro-rata basis depending on your selected distribution period.
 
-**===**
+**如果我们不达到我们的最低限额目标会怎样？**
 
 > **What happens if we don’t meet our minimum cap goal?**
 
-===
+所有的交易将被退回到交易中使用的钱包地址。
 
 > All transactions will be refunded to the wallet address used in the transaction.
 
-**===**
+**我如何在Current上设置我的钱包？**
 
 > **How do I set up my wallet on Current?**
 
-===
+一旦CRNC钱包上线，感兴趣的各方将被引导到一个门户网站，在那里你将被要求声明并生成你的钱包。一旦钱包被生成，你就会得到一个与那个特定钱包地址相关的种子短语。这是你要保存的记录。一旦该种子被生成，您将被要求输入密码。在这个过程完成之后，我们将把预先确定的CRNC代币奖励发送到这个地址。
 
 > Once the CRNC wallets go live, interested parties will be directed to a portal where you will be asked to claim and generate your wallet. Once the wallet has been generated, you will be provided with a seed phrase tied to that specific wallet address. This is something you’ll keep for your records. Once that seed has been generated, you’ll be asked to enter a password. After this process has been completed, we will reward that address with a predetermined amount of CRNC tokens for doing so.
 
-===
+有了你的新钱包，你就可以向你的朋友推荐来赚取新的代币了。
 
 > With your new wallet generated, you’ll be able to make referrals to your friends to earn additional tokens.
 
-**===**
+**为什么在我的钱包里有CRNC代币的衰减率？**
 
 > **Why is there a decay rate on CRNC tokens held in my wallet?**
 
-===
+为了在平台上激励活跃用户，在一个不活跃超过6个月的账户中持有的CRNC令牌将开始衰减;然后，衰减的代币将被转移回增长池，以奖励活跃的参与者。
 
 > In order to incentivize active users on the platform, any CRNC tokens held in an account that goes inactive for more than 6 months will begin to decay; the decaying tokens will then be transferred back into the growth pool to reward active participants.
 
-===
+在此之前，用户将收到一系列警报。衰减率不适用于在代币销售期间购买的任何代币，或在转出到钱包中的代币。
 
 > A user will get a series of alerts before this takes place. The decay rate does not apply to any tokens purchased during the token sale, or tokens transferred out and held in an offline wallet.
 
-===
+衰减率与间隔时间的关系如下：6个月开始，每个月衰减10%
 
 > The rates of decay at associate intervals are as follows: 6 months @ 10% month-over-month
 
-**===**
+**我在哪里可以了解更多关于Current和CRNC的信息？**
 
 > **Where can I learn more about Current and CRNC?**
 
-===
+Current Platform Website  
+[http://current.us](http://current.us)
+
+Twitter  
+[https://twitter.com/](https://twitter.com/)Current\_CRNC
+
+Medium  
+[https://medium.com/](https://medium.com/)current-crnc
+
+CRNC Token Sale Website  
+[https://tokensale.current.us/](https://tokensale.current.us/)
+
+Facebook  
+[https://www.facebook.com/](https://www.facebook.com/)CurrentCRNC
+
+Telegram
+
+[http://bit.ly/2xWBPfH](http://bit.ly/2xWBPfH)
 
 > Current Platform Website  
 > [http://current.us](http://current.us)
