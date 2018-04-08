@@ -8,9 +8,9 @@
 
 > #### Spotify
 
-===
+由于Spotify没有公开交易，我们在这里依靠的是Spotify财务状况的新闻报道。向其卢森堡父母报告。
 
-> As Spotify isn’t publicly traded, we rely here on news reports of Spotify’s financials . reported to its Luxembourg parent.
+> As Spotify isn’t publicly traded, we rely here on news reports of Spotify’s financials. reported to its Luxembourg parent.
 
 ===
 
