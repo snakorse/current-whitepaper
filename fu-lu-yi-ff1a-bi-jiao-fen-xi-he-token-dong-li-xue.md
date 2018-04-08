@@ -8,51 +8,51 @@
 
 > #### Spotify
 
-由于Spotify没有公开交易，我们在这里依靠的是Spotify财务状况的新闻报道。向其卢森堡父母报告。
+由于Spotify没有公开交易，我们在这里依靠的是Spotify财务状况的新闻报道。向其卢森堡母公司的报告。
 
 > As Spotify isn’t publicly traded, we rely here on news reports of Spotify’s financials. reported to its Luxembourg parent.
 
-===
+Spotify在2016年的月活跃用户数为1.26亿，其中有7800万（62%）的免费用户，以及4800万（38%）的付费订阅用户。然而，其收入的89.9%，即264亿欧元。是由付费订阅驱动的。由于收入的成本，高级订阅的毛利润为4838万英镑，而Spotify的广告支持业务则录得33.3亿欧元的总亏损。
 
 > Spotify ended 2016 with 126 million monthly active users, with 78 million \(62%\) free-tier users and 48 million \(38%\) paid subscriptions. However, 89.9% of its revenue, 2.64bn Eur., is driven by paid subscriptions. Due to cost of revenues, the gross profit on premium subscriptions was €483.8m, while Spotify’s ad-supported business recorded a gross loss of €33.3m.
 
-===
+我们认为，收入的成本是由流媒体版税向唱片公司、专业人士、后台服务和出版商提供的，以每一次播放为基础。我们使用的是1:2的欧洲美元换算率。
 
 > We assume that cost of revenue is driven by streaming royalties to record labels, PROs, back-office services, and publishers, approximated on a per-play basis. We use a EURUSD conversion rate of 1:1.2.
 
-===
+收入的总成本
 
 > **Total Cost of Revenue**
 
 ![](/assets/totalcost.png)
 
-===
+估计每个用户每年的收入成本：
 
 > **Estimated Cost of Revenue per User per Year:**
 
 ![](/assets/p7.png)
 
-===
+我们假设平均播放产生的版税为0.006美元（工业eCPM）：
 
 > We assume the average play generates $0.006 in royalties \(industry eCPM\):
 
-===
+平均每个用户每年的播放次数：
 
 > **Number of plays per average user per year:**
 
 ![](/assets/Number of plays per average user per year.png)
 
-===
+假设Spotify Premium的消费者估值完全是由免广告（除了其他好处，比如移动应用使用或更高的音频质量）驱动的：
 
 > Assuming that consumer valuations for Spotify Premium are solely driven by the avoidance of ads \(aside from other benefits, for instance mobile app usage or higher audio quality\):
 
-===
+平均每个用户每年的播放次数：
 
 > **Number of plays per average user per year:**
 
 ![](/assets/Number of plays per average user per yeard.png)
 
-===
+因此，我们估计，与免费的用户相比，Spotify的高级用户对每条流的估值超过了35%。
 
 > Thus we estimate that Spotify Premium users overvalue each stream around 35% as compared to free tier users
 
@@ -60,15 +60,19 @@
 
 > #### Pandora
 
-===
+与Spotify和Current等流媒体音乐提供商相比，Pandora是一家互联网广播提供商——这意味着它的版权和分销模式有所不同，我们追踪听众的时间，而不是合法的播放次数。这些数据来自其财务报表：2016年10-K和2016年第三季度10-q。
 
 > Pandora, in contrast with streaming music providers like Spotify and Current, acts as an internet radio provider -- which means its royalty and distribution model is somewhat different, and we track listener time, rather than number of legitimate plays. These figures are quoted from its financial statements: the 2016 10-K and 2016 Q3 10-Q.
 
-===
+和Spotify一样，Pandora的订阅用户数量也超过了免费用户。在2016年，有7450万的免费用户，以及439万用户。其基于订阅的服务记录了279 B的总听众时间，而免费广告层的服务时间为19.17亿。
 
 > Like Spotify, there are more Pandora subscribers than there are free-tier. There were 74.5M free-tier users, and 4.39M subscribers in 2016. Its subscription-based service logged 2.79B total listener hours, as compared to 19.17B on the free advertising tier.
 
-===
+我们使用在Pandora 10-K上提供的RPM度量（每千个听小时的收入）（只包括前9个月，因为在2016年第三季度之后，RPM度量被放弃）：
+
+基于RPM的广告
+
+
 
 > We use the RPM metric \(revenue per thousand listening-hours\) provided on the Pandora 10-K \(only the first nine months are included, because the RPM metric is abandoned after Q3 2016\):
 >
